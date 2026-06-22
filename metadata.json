@@ -1,0 +1,6 @@
+{
+  "name": "AlizWeb",
+  "description": "وب‌سایت رسمی برند شخصی علیرضا عبدی (AlizWeb) - طراحی سایت‌های فروشگاهی، سئو و توسعه بیزینس آنلاین با رویکرد افزایش فروش",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
